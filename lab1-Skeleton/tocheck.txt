@@ -1,0 +1,13 @@
+struct initilization:
+-word NULL
+-command[3] NULL
+
+return status of compound cmd
+
+output for compound cmd
+
+input for compound cmd
+
+while (echo testing while) do echo whileworks!; done //this parser cannot identify
+
+invalid character in comment
